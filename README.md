@@ -3,16 +3,16 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Flask](https://img.shields.io/badge/Flask-App-green)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An interactive web app that uses a Convolutional Neural Network (CNN) to recognize handwritten digits drawn on a canvas. Built using Flask, TensorFlow, and JavaScript, this app combines deep learning with frontend visualization to predict digits in real time.
 
 ---
 
 ## 📽️ Working App Snaps
-
-
-*(Draw a digit 0–9 on the left, see real-time predictions on the right!)*
+![App Screenshot](assets/img1.png)
+![App Screenshot](assets/img2.png)
+![App Screenshot](assets/img3.png)
+![App Screenshot](assets/img4.png)
 
 ---
 
